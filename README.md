@@ -1,84 +1,68 @@
-# Mahesh Kumar - Aspiring Software Developer
+# 👋 Hi, I'm Mahesh Kumar
 
-![Profile](https://img.shields.io/badge/Status-Active-brightgreen) ![Tech Stack](https://img.shields.io/badge/Tech-Python%20%7C%20React%20%7C%20Django-blue)  
-
-Hi! I'm **Mahesh Kumar**, an aspiring software developer focusing on **web development** and software engineering. Passionate about building efficient, scalable applications and solving real-world problems through technology.
+![Status](https://img.shields.io/badge/Role-Aspiring%20Software%20Engineer-brightgreen)
+![Tech Stack](https://img.shields.io/badge/Python%20|%20Django%20|%20HTML%20|%20JS-blue)
 
 ---
 
-## 🛠️ Technical Skills
-- **Programming Languages**: Python, C++, JavaScript
-- **Web Development**: HTML, CSS, Bootstrap, React, Django, Flask
-- **Databases**: MySQL, SQLite
-- **Other Tools**: Git, VSCode, Pycharm, DSA
+## 🚀 About Me
+
+Aspiring **Software Engineer** with hands-on experience in **Django, JavaScript, HTML/CSS**, and backend development. I'm passionate about building scalable web applications and excited to collaborate in real-world software projects.
 
 ---
 
 ## 🎓 Education
-- **Bachelor of Computer Science and Engineering**, Uttrakhand Technical University (Aug 2021 - July 2025)
-- **High School**, Jharkhand Academic Council (2017 - 2021)
+
+**Bachelor of Technology in Computer Science**  
+Uttarakhand Technical University, Roorkee  
+📅 Aug 2021 – July 2025 | 🎯 CGPA: 6.2 / 10
 
 ---
 
-## 🏆 Certifications
-- Basics of C++ from HackerRank
-- Web Development from Internshala
-- Python from HackerRank
-- JavaScript from Internshala
+## 🛠 Technical Skills
+
+- **Languages:** Python, JavaScript, OOP, DSA  
+- **Web Technologies:** HTML, CSS, Bootstrap  
+- **Frameworks:** Django  
+- **Tools:** Git, VS Code, PyCharm
 
 ---
 
-## 💼 Experience
+## 📁 Projects
 
-### **Web Development Intern**  
-_Internshala Online Training_ (Sept 2023 – Present)  
-- Learned full-stack web development using HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL.  
-- Built a fully functional web application featuring user registration, login, and database interaction.
+### 🔹 [Student Result Management System](Projects/Student_Result_Management_System)
+- Admin and student login with result CRUD functionality.
+- Export results as downloadable PDFs.
+- Built with **Django**, **MySQL**, **HTML/CSS**.
 
-### **Information Technology Intern**  
-_Larsen and Toubro Edutech_ (April 2024 – July 2024)  
-- Hands-on programming experience with Python and C++.  
-- Applied SQL for relational database management.  
-- Strengthened understanding of algorithms, data structures, and OOP principles.
+### 🔹 [E-Commerce Mini Site](Projects/E_Commerce_Mini_Site)
+- Product listing, shopping cart, and admin control.
+- Built with **Django**, **SQLite**, **Bootstrap**.
 
----
-
-## 🚀 Projects
-
-### **University ERP System**  
-_Technologies_: Python, SQLite, React, HTML, CSS  
-- Built an ERP system to manage student data, admissions, faculty, and financial operations.  
-- Created dashboards for different user roles (students, staff, admins).  
-- Optimized relational databases for scalability and future module expansion.
-
-### **Apocalyptic Mart (E-commerce Website)**  
-_Technologies_: Python, JavaScript, React, MySQL, HTML, CSS  
-- Designed a responsive e-commerce platform with user authentication, product browsing, and order management.  
-- Developed category filters for seamless browsing (e.g., Men, Women, Kids).  
-- Ensured a mobile-friendly, responsive UI for a smooth user experience.
+### 🔹 [Portfolio Website](Projects/Portfolio_Website)
+- Responsive portfolio with Django-powered contact form and animation.
+- Hosted project to display resume, contact, and skills.
 
 ---
 
-## 🌟 Achievements & Activities
-- Participated in **AI Day for Startups at Cognizance 2024**, IIT Roorkee.  
-- Taekwondo team member, enhancing resilience and agility with belt advancements.  
-- Collaborated on designing the DSC chapter’s official website with a responsive and user-friendly experience.
+## 📜 Certifications
+
+- Python – Internshala, HackerRank, NSDC  
+- Web Development – Internshala, SmartBrain  
+- JavaScript – HackerRank  
+- IT Service – L&T Edutech
 
 ---
 
-## 📧 Contact Me
-- **Email**: [maheshkumarmaheshkumar8684@gmail.com](mailto:maheshkumarmaheshkumar8684@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/mahesh-kumar-8654452a9](https://www.linkedin.com/in/mahesh-kumar-8654452a9/)  
-- **GitHub**: [github.com/MaheshKumar2058](https://github.com/MaheshKumar2058)
-- **HackerRank**: [hackerrank.com/profile/maheshkumar8684](https://www.hackerrank.com/profile/maheshkumar8684)
-- **LeetCode**: [leetcode.com/u/maheshkumarmaheshkumar8684/](https://leetcode.com/u/maheshkumarmaheshkumar8684/)
-- **CodeChef**: [codechef.com/users/mahesh8684](https://www.codechef.com/users/mahesh8684)
+## 📧 Contact
+
+- 📬 [maheshkumarmaheshkumar8684@gmail.com](mailto:maheshkumarmaheshkumar8684@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/mahesh-kumar-8654452a9)
+- 💻 [GitHub](https://github.com/MaheshKumar2058)
+- 🔗 [LeetCode](https://leetcode.com/u/maheshkumarmaheshkumar8684/)
+- 🧠 [CodeChef](https://www.codechef.com/users/mahesh8684)
 
 ---
 
----
-
----
-
-⭐ **Star my repositories** if you find them useful!  
-👨‍💻 **Let’s collaborate and build great projects together!**
+⭐ Star this repo if you find it useful!  
+🤝 Let's connect and build amazing projects together.
